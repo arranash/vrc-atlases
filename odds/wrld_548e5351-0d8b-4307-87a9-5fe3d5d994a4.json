@@ -1,0 +1,44 @@
+{
+ "v": 1,
+ "world": "wrld_548e5351-0d8b-4307-87a9-5fe3d5d994a4",
+ "updated": "2026-11-14T22:19:52Z",
+ "interval_minutes": 30,
+ "next_rotation_at": 1794696592,
+ "runs": 300,
+ "walls": 1,
+ "seats": 16,
+ "reserved": 0,
+ "contributors": 0,
+ "photos": 0,
+ "base": {
+  "chance": 0.0
+ },
+ "tiers": [
+  {
+   "tier": 1,
+   "name": "Server Booster",
+   "chance": 1.0
+  },
+  {
+   "tier": 2,
+   "name": "Group Member",
+   "chance": 1.0
+  },
+  {
+   "tier": 3,
+   "name": "Tier 1 Supporter",
+   "chance": 1.0
+  },
+  {
+   "tier": 4,
+   "name": "Tier 2 Supporter",
+   "chance": 1.0
+  },
+  {
+   "tier": 5,
+   "name": "Tier 3 Supporter",
+   "chance": 1.0
+  }
+ ],
+ "users": {}
+}
