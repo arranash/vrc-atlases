@@ -1,7 +1,7 @@
 {
  "v": 4,
  "world": "wrld_1d1b48cb-780d-46e2-97ed-85aefc866614",
- "updated": "2026-11-21T15:51:52Z",
+ "updated": "2026-11-21T16:22:02Z",
  "captions": [
   "",
   "",
@@ -22,7 +22,7 @@
  ],
  "dates": [
   "",
-  "2026-07-08",
+  "",
   "",
   "",
   "",
@@ -34,13 +34,13 @@
   "",
   "",
   "2026-07-28",
-  "",
+  "2026-07-08",
   "",
   ""
  ],
  "names": [
   "",
-  "Zodiac∆ ( Jack hollow)",
+  "",
   "",
   "",
   "",
@@ -52,7 +52,7 @@
   "",
   "",
   "AURELIALOAF",
-  "",
+  "Zodiac∆ ( Jack hollow)",
   "",
   ""
  ],
@@ -76,19 +76,19 @@
  ],
  "filled": [
   false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
   true,
-  false,
-  false,
-  false,
-  false,
-  false,
-  false,
-  false,
-  false,
-  false,
-  false,
   true,
-  false,
   false,
   false
  ]
