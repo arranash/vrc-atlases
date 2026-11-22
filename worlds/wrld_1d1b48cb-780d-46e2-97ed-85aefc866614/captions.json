@@ -1,10 +1,10 @@
 {
  "v": 4,
  "world": "wrld_1d1b48cb-780d-46e2-97ed-85aefc866614",
- "updated": "2026-11-22T00:25:36Z",
+ "updated": "2026-11-22T00:55:41Z",
  "captions": [
-  "",
   "Dawn office Sinclair lamenting",
+  "",
   "",
   "",
   "",
@@ -21,11 +21,7 @@
   ""
  ],
  "dates": [
-  "",
   "2026-07-28",
-  "",
-  "",
-  "",
   "",
   "",
   "",
@@ -36,14 +32,14 @@
   "",
   "",
   "",
+  "",
+  "",
+  "",
+  "",
   ""
  ],
  "names": [
-  "",
   "AURELIALOAF",
-  "",
-  "",
-  "",
   "",
   "",
   "",
@@ -54,11 +50,15 @@
   "",
   "",
   "",
+  "",
+  "",
+  "",
+  "",
   ""
  ],
  "tiers": [
-  0,
   1,
+  0,
   0,
   0,
   0,
@@ -75,7 +75,6 @@
   0
  ],
  "filled": [
-  false,
   true,
   false,
   false,
@@ -83,10 +82,11 @@
   false,
   false,
   false,
-  false,
-  false,
-  false,
   true,
+  false,
+  false,
+  false,
+  false,
   false,
   false,
   false,
