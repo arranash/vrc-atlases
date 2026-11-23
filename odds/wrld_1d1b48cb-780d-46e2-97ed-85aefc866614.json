@@ -1,9 +1,9 @@
 {
  "v": 1,
  "world": "wrld_1d1b48cb-780d-46e2-97ed-85aefc866614",
- "updated": "2026-11-23T00:35:41Z",
+ "updated": "2026-11-23T01:05:50Z",
  "interval_minutes": 30,
- "next_rotation_at": 1795395941,
+ "next_rotation_at": 1795397749,
  "runs": 300,
  "walls": 1,
  "seats": 16,
