@@ -1,7 +1,7 @@
 {
  "v": 4,
  "world": "wrld_1d1b48cb-780d-46e2-97ed-85aefc866614",
- "updated": "2026-11-25T17:40:58Z",
+ "updated": "2026-11-25T18:11:04Z",
  "captions": [
   "",
   "",
@@ -15,10 +15,10 @@
   "",
   "",
   "",
-  "Dawn office Sinclair lamenting",
   "",
   "",
-  ""
+  "",
+  "Dawn office Sinclair lamenting"
  ],
  "dates": [
   "",
@@ -32,11 +32,11 @@
   "",
   "",
   "",
-  "",
-  "2026-07-28",
   "2026-07-08",
   "",
-  ""
+  "",
+  "",
+  "2026-07-28"
  ],
  "names": [
   "",
@@ -50,11 +50,11 @@
   "",
   "",
   "",
-  "",
-  "AURELIALOAF",
   "Zodiac∆ ( Jack hollow)",
   "",
-  ""
+  "",
+  "",
+  "AURELIALOAF"
  ],
  "tiers": [
   0,
@@ -69,10 +69,10 @@
   0,
   0,
   0,
-  1,
   0,
   0,
-  0
+  0,
+  1
  ],
  "filled": [
   false,
@@ -86,10 +86,10 @@
   false,
   false,
   false,
-  false,
-  true,
   true,
   false,
-  false
+  false,
+  false,
+  true
  ]
 }
