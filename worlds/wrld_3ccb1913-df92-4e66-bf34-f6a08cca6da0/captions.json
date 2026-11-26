@@ -1,7 +1,7 @@
 {
  "v": 4,
  "world": "wrld_3ccb1913-df92-4e66-bf34-f6a08cca6da0",
- "updated": "2026-11-26T14:52:45Z",
+ "updated": "2026-11-26T15:22:46Z",
  "captions": [
   "",
   "",
@@ -9,6 +9,7 @@
   "",
   "",
   "",
+  "I found a new feature",
   "",
   "",
   "",
@@ -17,8 +18,7 @@
   "",
   "",
   "",
-  "",
-  "I found a new feature"
+  ""
  ],
  "dates": [
   "",
@@ -27,6 +27,7 @@
   "",
   "",
   "",
+  "2024-11-21",
   "",
   "",
   "",
@@ -35,8 +36,7 @@
   "",
   "",
   "",
-  "",
-  "2024-11-21"
+  ""
  ],
  "names": [
   "",
@@ -45,6 +45,7 @@
   "",
   "",
   "",
+  "Jake — Калиская Enjoyer",
   "",
   "",
   "",
@@ -53,8 +54,7 @@
   "",
   "",
   "",
-  "",
-  "Jake — Калиская Enjoyer"
+  ""
  ],
  "tiers": [
   0,
@@ -81,6 +81,7 @@
   false,
   false,
   false,
+  true,
   false,
   false,
   false,
@@ -89,7 +90,6 @@
   false,
   false,
   false,
-  false,
-  true
+  false
  ]
 }
