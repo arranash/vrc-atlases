@@ -1,7 +1,7 @@
 {
  "v": 4,
  "world": "wrld_1d1b48cb-780d-46e2-97ed-85aefc866614",
- "updated": "2026-11-27T15:03:56Z",
+ "updated": "2026-11-27T15:34:09Z",
  "captions": [
   "",
   "",
@@ -14,13 +14,14 @@
   "",
   "",
   "",
-  "Dawn office Sinclair lamenting",
   "",
   "",
   "",
-  ""
+  "",
+  "Dawn office Sinclair lamenting"
  ],
  "dates": [
+  "2026-11-26",
   "2026-11-26",
   "2026-11-26",
   "2026-07-08",
@@ -32,13 +33,13 @@
   "2026-11-26",
   "2026-11-26",
   "2026-11-26",
-  "2026-07-28",
   "2026-11-26",
   "2026-11-26",
   "2026-11-26",
-  "2026-11-26"
+  "2026-07-28"
  ],
  "names": [
+  "ember",
   "ember",
   "ember",
   "Zodiac∆ ( Jack hollow)",
@@ -50,17 +51,16 @@
   "ember",
   "ember",
   "ember",
-  "AURELIALOAF",
   "ember",
   "ember",
   "ember",
-  "ember"
+  "AURELIALOAF"
  ],
  "tiers": [
   1,
   1,
-  0,
   1,
+  0,
   1,
   1,
   1,
