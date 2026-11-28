@@ -1,9 +1,9 @@
 {
  "v": 1,
  "world": "wrld_23404c51-a0c9-47dc-b9e1-09e76cf7cad0",
- "updated": "2026-11-28T01:35:23Z",
+ "updated": "2026-11-28T02:05:38Z",
  "interval_minutes": 30,
- "next_rotation_at": 1795831515,
+ "next_rotation_at": 1795833330,
  "runs": 300,
  "walls": 10,
  "seats": 160,
@@ -27,12 +27,12 @@
   {
    "tier": 3,
    "name": "Tier 1 Supporter",
-   "chance": 0.21
+   "chance": 0.213
   },
   {
    "tier": 4,
    "name": "Tier 2 Supporter",
-   "chance": 0.21
+   "chance": 0.213
   },
   {
    "tier": 5,
