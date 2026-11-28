@@ -1,9 +1,9 @@
 {
  "v": 1,
  "world": "wrld_23404c51-a0c9-47dc-b9e1-09e76cf7cad0",
- "updated": "2026-11-28T14:41:21Z",
+ "updated": "2026-11-28T15:11:34Z",
  "interval_minutes": 30,
- "next_rotation_at": 1795878673,
+ "next_rotation_at": 1795880486,
  "runs": 300,
  "walls": 10,
  "seats": 160,
@@ -22,7 +22,7 @@
   {
    "tier": 2,
    "name": "Group Member",
-   "chance": 0.23
+   "chance": 0.233
   },
   {
    "tier": 3,
