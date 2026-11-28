@@ -1,9 +1,9 @@
 {
  "v": 1,
  "world": "wrld_23404c51-a0c9-47dc-b9e1-09e76cf7cad0",
- "updated": "2026-11-28T03:36:19Z",
+ "updated": "2026-11-28T04:06:33Z",
  "interval_minutes": 30,
- "next_rotation_at": 1795838770,
+ "next_rotation_at": 1795840585,
  "runs": 300,
  "walls": 10,
  "seats": 160,
@@ -17,12 +17,12 @@
   {
    "tier": 1,
    "name": "Server Booster",
-   "chance": 0.217
+   "chance": 0.213
   },
   {
    "tier": 2,
    "name": "Group Member",
-   "chance": 0.217
+   "chance": 0.213
   },
   {
    "tier": 3,
