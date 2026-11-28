@@ -1,17 +1,17 @@
 {
  "v": 1,
  "world": "wrld_548e5351-0d8b-4307-87a9-5fe3d5d994a4",
- "updated": "2026-11-28T11:44:25Z",
+ "updated": "2026-11-28T12:14:35Z",
  "interval_minutes": 30,
- "next_rotation_at": 1795868065,
+ "next_rotation_at": 1795869875,
  "runs": 300,
  "walls": 1,
  "seats": 16,
  "reserved": 0,
- "contributors": 47,
- "photos": 55,
+ "contributors": 48,
+ "photos": 56,
  "base": {
-  "chance": 0.34
+  "chance": 0.333
  },
  "tiers": [
   {
